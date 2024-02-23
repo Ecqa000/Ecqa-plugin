@@ -25,7 +25,7 @@
 
 
 ``` bash
-git clone --depth 1  ./plugins/Ecqa-plugin
+git clone --depth 1 https://github.com/Ecqa000/Ecqa-plugin.git ./plugins/Ecqa-plugin
 ```
 
 
