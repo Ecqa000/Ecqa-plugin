@@ -49,11 +49,6 @@ Yunzai-Bot/plugins/Ecqa-plugin/config
 
 > [QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=B5eugPGvdsH7_FusXk8LzsRSgiYP8rDX&authKey=3cbMzOp03bEAjVTlbI2KJSKtN2a0uYS9r3KQPIs9H3PSDelHkezNZ8r5L6E1A39j&noverify=0&group_code=875472569)
 
-# QQ机器人
-<p align="center">
-  <img src="./resources/Ztb/HL.png" width="55%" height="55%" alt="useless-plugin">
-</p>
-
 # 🐾关于本插件
 QWQ
 - 只是个娱乐性的插件
