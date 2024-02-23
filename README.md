@@ -11,14 +11,6 @@
 # Ecqa-plugin
 
 ![Ecqa](https://ipquery.dml.ink/image)
-</div>
-<p align="center">
-  <video width="66.67%" height="100%" controls>
-    <source src="./resources/Ztb/3b7894361c3648cfd4ed9bf76963f36d.mp4" type="video/mp4">
-    你的浏览器不支持视频播放捏
-  </video>
-</p>
-
 
 # 🚀安装教程
 仅Gitee在Yzai根目录执行即可
