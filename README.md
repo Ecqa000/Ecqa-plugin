@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://gitee.com/fox-glaze/hl-plugin/">
+  <a href="https://github.com/Ecqa000/Ecqa-plugin.git">
   <img src="./resources/Ztb/她奶茶全糖.jpg" width="100%" height="100%" alt="useless-plugin">
   </a>
 </p>
